@@ -3,3 +3,8 @@
 # perl-cldr.github.io
 
 Perl CLDR website
+
+© 2013–2014 Nick Patch
+
+This library is free software; you can redistribute it and/or modify it under
+the same terms as Perl itself.
